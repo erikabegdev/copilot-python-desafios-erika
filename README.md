@@ -14,3 +14,61 @@ O objetivo é explorar como a inteligência artificial pode aumentar a produtivi
 - Git e GitHub  
 - GitHub Copilot
 - ChatGpt 
+
+## 🐍 Algoritmos em Python
+
+Este repositório contém três algoritmos simples desenvolvidos em Python com auxílio do GitHub Copilot e ChatGPT.  
+Cada algoritmo recebe entrada do usuário, processa os dados e retorna o resultado no terminal.  
+
+---
+
+### 📌 `algoritmo_soma.py`  
+Programa que lê três números inteiros e retorna a soma.  
+
+**Exemplo de execução:**  
+Entrada:
+5
+10
+15
+
+Saída:
+A soma dos números é: 30
+
+
+---
+
+### 📌 `algoritmo_fatorial.py`  
+Programa que calcula o fatorial de um número inteiro informado pelo usuário.  
+
+**Exemplo de execução:**  
+Entrada:
+5
+
+Saída:
+O fatorial de 5 é 120
+
+
+---
+
+### 📌 `algoritmo_primo.py`  
+Programa que verifica se um número informado pelo usuário é primo.  
+
+**Exemplo de execução:**  
+Entrada:
+7
+
+Saída:
+7 é primo
+
+Entrada:
+9
+
+Saída:
+9 não é primo
+
+
+---
+
+✅ Esses exemplos demonstram a aplicação prática dos conceitos de Python aliados ao uso de ferramentas de IA para aumentar a produtividade no desenvolvimento.
+
+
